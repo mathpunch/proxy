@@ -1,3 +1,3 @@
 window.onload = function() {
-    alert("This mathpunch Proxy is in Beta");
+    alert("Hydra Proxy 1.0");
 };
